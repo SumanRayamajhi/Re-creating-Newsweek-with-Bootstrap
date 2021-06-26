@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+@media (min-width: 992px) {
+    .alto-100 {
+        height: 100vh;
+    }
+}
+@media (max-width: 768px) {
+    .display-subscribe {
+        display: none;
+    }
+}
